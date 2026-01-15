@@ -2,3 +2,5 @@
 - orange juice
 - icecream
 - coffee
+- chicken
+- eggs
