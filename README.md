@@ -3,3 +3,6 @@
 - lettuce
 - tomato
 - onion
+- milk
+- cereal
+- croissants
